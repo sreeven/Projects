@@ -1,3 +1,4 @@
 # Projects
 
-- App Profitability Analaysis
+-App Profitability Analaysis
+   Skills Showcased: [Python, Data Cleaning]
