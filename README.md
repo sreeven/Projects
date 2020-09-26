@@ -1,3 +1,3 @@
-#Projects
+# Projects
 
--App Profitability Analaysis
+- App Profitability Analaysis
