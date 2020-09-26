@@ -4,4 +4,4 @@ In this task, you are assigned to develop an idea for a new, free application fo
 
 In this task, you will analyze both sets of data to determine the factors that make apps successful. In short, what type of free applications are successful, and what category factors should be considered when developing a new application. 
 
-Skills Showcased: [Python]
+Skills Showcased: [Python, Data Cleaning]
